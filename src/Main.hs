@@ -6,6 +6,6 @@ main :: IO ()
 
 size = (640, 640)
 position = (100, 100)
-backgroundColor = blue
+backgroundColor = black
 
 main = display (InWindow "Checkers" size position) backgroundColor (Circle 80)
