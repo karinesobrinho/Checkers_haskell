@@ -3,4 +3,9 @@ import Graphics.Gloss
 import Graphics.Gloss.Data.Color
 
 main :: IO ()
-main = display (InWindow "Checkers" (200, 200) (10, 10)) red (Circle 80)
+
+size = (640, 640)
+position = (100, 100)
+backgroundColor = blue
+
+main = display (InWindow "Checkers" size position) backgroundColor (Circle 80)

@@ -3,6 +3,12 @@
 /home/karine/Documentos/paradigmas/Checkers_haskell/README.md:
   hash: d635b354949be6d3a6e30b77aaa02ba87908c3dd4d133bc49c5011e16c703410
 /home/karine/Documentos/paradigmas/Checkers_haskell/checkers.cabal:
-  hash: 7b26284c6dc23befdc5ee3a9d4c4f158573a6b617f6654bad9d580024421c0b2
+  hash: 6e97d36350def7df5d858a09951a4ab9c6fc75982b3638db0845fd5c2d0df832
+/home/karine/Documentos/paradigmas/Checkers_haskell/src/Controller.hs:
+  hash: b3e76748dbdf727f6f34180e9cb592200a71d193f9f9779a93fb0cbcaacdd7a5
+/home/karine/Documentos/paradigmas/Checkers_haskell/src/Game.hs:
+  hash: 8134d5eb590f9a41d636a2bfc888315af143845f215651f36f32e8f06974db53
 /home/karine/Documentos/paradigmas/Checkers_haskell/src/Main.hs:
-  hash: 4decc0b5b4764789aa2a5829ddf6c5de890e4b1be84cea393ddfd3a6e8bee12e
+  hash: 7dbf5c607e40202d93bf86275cd5851e10514cd7300e49e9e50697d305a98226
+/home/karine/Documentos/paradigmas/Checkers_haskell/src/Render.hs:
+  hash: f9854c59a3cd6e8a6b940520ef38f8d55deffafafe4f14f7d28fd2b7d94d1bf6
