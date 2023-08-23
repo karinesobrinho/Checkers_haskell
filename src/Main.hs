@@ -1,6 +1,9 @@
 module Main (main) where
 import Graphics.Gloss
 import Graphics.Gloss.Data.Color
+import Game
+import Controller
+import Render
 
 main :: IO ()
 

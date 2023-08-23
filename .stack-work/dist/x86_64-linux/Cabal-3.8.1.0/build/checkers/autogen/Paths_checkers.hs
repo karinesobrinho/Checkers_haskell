@@ -43,7 +43,7 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 bindir     = "/home/karine/Documentos/paradigmas/Checkers_haskell/.stack-work/install/x86_64-linux/35f53a3fc0aa9b1bc6c2b88ad29f43ca53a2c8c3bc6ec00794ad0aa0370ea012/9.4.6/bin"
-libdir     = "/home/karine/Documentos/paradigmas/Checkers_haskell/.stack-work/install/x86_64-linux/35f53a3fc0aa9b1bc6c2b88ad29f43ca53a2c8c3bc6ec00794ad0aa0370ea012/9.4.6/lib/x86_64-linux-ghc-9.4.6/checkers-0.1.0.0-CkdJdr3xt9JnhN51ePH9w-checkers"
+libdir     = "/home/karine/Documentos/paradigmas/Checkers_haskell/.stack-work/install/x86_64-linux/35f53a3fc0aa9b1bc6c2b88ad29f43ca53a2c8c3bc6ec00794ad0aa0370ea012/9.4.6/lib/x86_64-linux-ghc-9.4.6/checkers-0.1.0.0-JzUpAy3lS2EAmnzEZsJuRk-checkers"
 dynlibdir  = "/home/karine/Documentos/paradigmas/Checkers_haskell/.stack-work/install/x86_64-linux/35f53a3fc0aa9b1bc6c2b88ad29f43ca53a2c8c3bc6ec00794ad0aa0370ea012/9.4.6/lib/x86_64-linux-ghc-9.4.6"
 datadir    = "/home/karine/Documentos/paradigmas/Checkers_haskell/.stack-work/install/x86_64-linux/35f53a3fc0aa9b1bc6c2b88ad29f43ca53a2c8c3bc6ec00794ad0aa0370ea012/9.4.6/share/x86_64-linux-ghc-9.4.6/checkers-0.1.0.0"
 libexecdir = "/home/karine/Documentos/paradigmas/Checkers_haskell/.stack-work/install/x86_64-linux/35f53a3fc0aa9b1bc6c2b88ad29f43ca53a2c8c3bc6ec00794ad0aa0370ea012/9.4.6/libexec/x86_64-linux-ghc-9.4.6/checkers-0.1.0.0"
