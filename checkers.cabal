@@ -17,8 +17,11 @@ extra-source-files:  README.md
 executable checkers
   hs-source-dirs:      src
   main-is:             Main.hs
+  other-modules:       Game
+                     , Controller
+                     , Render
   default-language:    Haskell2010
-  build-depends:       base >= 4.7 && < 5, gloss
+  build-depends:       base >= 4.7 && < 5, gloss, array
   ghc-options:         -D2 -Wall
                        -Wcompat
                        -Widentities
