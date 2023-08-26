@@ -1,14 +1,14 @@
 module Main (main) where
+
 import Graphics.Gloss
 import Graphics.Gloss.Data.Color
+
 import Game
 import Controller
 import Render
 
+backgroundColor = makeColorI 36 152 82 255 --background verde
+
 main :: IO ()
-
-size = (640, 640)
-position = (100, 100)
-backgroundColor = black
-
-main = display (InWindow "Checkers" size position) backgroundColor (Circle 80)
+main = play FullScreen backgroundColor 30  initGame gameAsPic updateGame (\_->id)
+--abre tela inteira, para sair pressionar ESC
