@@ -70,10 +70,6 @@ boardAsGameOverPic board winner
             , color winnerColor boardGrid
             ]
 
-outcomeColor (Just Red) = redPlayer
-outcomeColor (Just Blue) = bluePlayer
-outcomeColor Nothing = tieColor
-
 snapPictureToCell picture (row, column) = translate x y picture
    where x = fromIntegral column * cellWidth + cellWidth * 0.5
          y = fromIntegral row * cellHeight + cellHeight * 0.5
